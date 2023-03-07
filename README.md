@@ -1,4 +1,4 @@
-### Hi there I'm THERESE Tuyisabe 👋
+### Hi there I'm Therese Tuyisabe 👋
 I'm a full-stack web developer and telecommunications engineer with a passion for creating innovative digital solutions. My background in telecommunications has given me a strong foundation in network design, optimization, and troubleshooting, while my experience as a full-stack web developer has allowed me to develop a range of skills in front-end and back-end development. I enjoy working on projects that challenge me to think creatively and solve complex problems, and I'm always looking for new opportunities to learn and grow.
 
 ## Favorite frameworks
