@@ -13,7 +13,6 @@ I'm a full-stack web developer and telecommunications engineer with a passion fo
 
 ## Favorite Tools
 
--
 - Git & Github
 - visual studio code
 - Webpack
