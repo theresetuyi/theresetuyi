@@ -4,31 +4,33 @@ I'm a full-stack web developer and telecommunications engineer with a passion fo
 ## Favorite frameworks
 
 - React
+- javascript
 - Rails
--javascript
--wireless communication system
--network protocal
--data transmission technologies
+- wireless communication system
+- network protocal
+- data transmission technologies
+
 
 ## Favorite Tools
 
--visual studio code
+-
 - Git & Github
+- visual studio code
 - Webpack
--node.js
+- node.js
 - Sass
 - Babel
 - putty
--cisco packet tracer
--MINI-LINK Craft
--Cygwin
-
+- cisco packet tracer
+- MINI-LINK Craft
+- Cygwin
+ 
 ## Favorite Languages 
 
 - JavaScript
 - Ruby
--C/C++
--Matlab
+- C/C++
+- Matlab
 
 ## More about me 
 
