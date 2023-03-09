@@ -36,8 +36,9 @@ I'm a full-stack web developer and telecommunications engineer with a passion fo
 I love to sing in choir in my free time, cinema lover. 
 
 ## Projects I would like to show you
-
+- [Awesome books](https://github.com/theresetuyi/Awesome-books-with-ES6)
 - [capstone ](https://github.com/theresetuyi/theresetuyi-Capstone-project73rdFIFA-)
+- [bootstrap](https://github.com/theresetuyi/portfolio-bootstrap)
 - [Minimalistic Todo List](https://github.com/theresetuyi/To-do-List)
 
 ## Here a link to my portfolio
